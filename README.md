@@ -1,2 +1,2 @@
-# compression_algo_comparison
+# Compression Algoritms/Tools : Benchmark
 Benchmarking various compression tools/ algorithms
